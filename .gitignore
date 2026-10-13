@@ -1,0 +1,66 @@
+# obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.trash/
+
+# os
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# editor
+*.swp
+*.swo
+*~
+.netrwhist
+tags
+
+# creds, should not exist
+unattend.xml
+autounattend.xml
+*.pem
+*.key
+*.pfx
+*.p12
+*.jks
+id_rsa*
+id_ed25519*
+*.kdbx
+.env
+.env.*
+secrets.*
+credentials.*
+
+# allowed examples
+!*.example
+
+# should never exist
+*.iso
+*.img
+*.vhd
+*.vhdx
+*.vmdk
+*.qcow2
+*.vdi
+*.ova
+*.ovf
+*.exe
+*.msi
+
+# logs, dumps, capture
+*.evtx
+*.pcap
+*.pcapng
+*.etl
+*.dmp
+
+# sample, archive, bins, should not exist
+samples/
+*.bin
+*.dll.sample
+*.zip
+*.7z
+*.rar
