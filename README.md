@@ -8,5 +8,5 @@ This repo publishes my public OpenPGP key.
 [Download the public key](./openpgp-public-key.asc)
 
 ```text
-EE0B 608E CD1F 9FFF ECA9  2C46 9EF1 2EAE 28E2 4EB1
+B6D3 648E FD67 3E90 C7FF  16C0 AB32 2CA0 9F7A 8505
 ```
