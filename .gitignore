@@ -64,3 +64,12 @@ samples/
 *.zip
 *.7z
 *.rar
+
+# openpgp secrets, should never exist
+*.rev
+openpgp-revocs.d/
+private-keys-v1.d/
+*.kbx
+*.gpg
+*secret*.asc
+*private*.asc
